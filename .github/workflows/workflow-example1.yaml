@@ -10,4 +10,4 @@ jobs:
   my-second-job:
     runs-on: ubuntu-latest
     steps:
-      -run: echo "Bye bye!"
+      -run: echo "Bye bye!zzz"
